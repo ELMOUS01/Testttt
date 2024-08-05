@@ -1,9 +1,4 @@
 {
-    "Index_1": 2,
-    "Index_2": 4,
-    "UseCheckpoints": false,
-    "UseBoth": false,
-    "UseApplovinOnly": false,
-    "UseUnityOnly": false,
-    "UseAdmob": true
+    "Link": "test",
+    "PngUrl": ""
 }
